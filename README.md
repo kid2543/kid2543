@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Arthit 👋 
 
-<!--
-**kid2543/kid2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for an entry-level
+ Software Developer position in a
+ growth-oriented company that
+ values my analytical and technical
+ skills while providing opportunities
+ for continuous learning. I aspire to
+ contribute to the company's
+ success by utilizing my expertise
+ and enhancing my professional
+ development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,express,react,nodejs,figma,bootstrap,tailwind,docker&theme=light)](https://skillicons.dev)
